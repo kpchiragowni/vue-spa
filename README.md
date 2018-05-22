@@ -22,7 +22,7 @@ Install Node (v8.11.2)
 
 1. Clone this repository
 
-    git clone https://github.com/kpchiragowni/sr.git
+    git clone https://github.com/kpchiragowni/vue-spa.git
 
     cd sr
 
